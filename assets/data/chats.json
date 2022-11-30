@@ -1,0 +1,145 @@
+[
+  {
+    "id": "1",
+    "user": {
+      "id": "u2",
+      "name": "Sajan",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTL3koQckkHIcuJdDrSI5Oq3fbf0iQSN8ItVZuv36Xs&s"
+    },
+    "lastMessage": {
+      "id": "m1",
+      "text": "Well done this sprint, guys!",
+      "createdAt": "2022-11-29T13:30:00.000Z"
+    }
+  },
+  {
+    "id": "2",
+    "user": {
+      "id": "u3",
+      "name": "Divya",
+      "image": "https://images.unsplash.com/photo-1597223557154-721c1cecc4b0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8aHVtYW4lMjBmYWNlfGVufDB8fDB8fA%3D%3D&w=1000&q=80"
+    },
+    "lastMessage": {
+      "id": "m2",
+      "text": "How are you doing? Did you get any chance to look at what I've sent you?",
+      "createdAt": "2022-11-29T10:48:00.000Z"
+    }
+  },
+  {
+    "id": "3",
+    "user": {
+      "id": "u4",
+      "name": "Bob",
+      "image": "https://picsum.photos/200"
+    },
+    "lastMessage": {
+      "id": "m3",
+      "text": "Hi, Vadim. I hope the plans for to night are still on.",
+      "createdAt": "2022-11-28T20:48:00.000Z"
+    }
+  },
+  {
+    "id": "4",
+    "user": {
+      "id": "u5",
+      "name": "Vikas Rana",
+      "image": "https://picsum.photos/200/500"
+    },
+    "lastMessage": {
+      "id": "m4",
+      "text": "Could you please review my last merge?",
+      "createdAt": "2022-11-27T14:48:00.000Z"
+    }
+  },
+  {
+    "id": "5",
+    "user": {
+      "id": "u6",
+      "name": "Arvind Jain",
+      "image": "https://picsum.photos/300/300"
+    },
+    "lastMessage": {
+      "id": "m5",
+      "text": "I would be happy meeting you",
+      "createdAt": "2022-11-25T14:48:00.000Z"
+    }
+  },
+  {
+    "id": "6",
+    "user": {
+      "id": "u7",
+      "name": "Birju",
+      "image": "https://picsum.photos/100/300"
+    },
+    "lastMessage": {
+      "id": "m6",
+      "text": "I think I have a solution for tha.",
+      "createdAt": "2022-11-23T14:48:00.000Z"
+    }
+  },
+  {
+    "id": "7",
+    "user": {
+      "id": "u8",
+      "name": "Dad",
+      "image": "https://picsum.photos/id/237/200/300"
+    },
+    "lastMessage": {
+      "id": "m7",
+      "text": "How are you doing?",
+      "createdAt": "2022-11-22T14:30:00.000Z"
+    }
+  },
+  {
+    "id": "8",
+    "user": {
+      "id": "u9",
+      "name": "Mom",
+      "image": "https://picsum.photos/200/300?grayscale"
+    },
+    "lastMessage": {
+      "id": "m8",
+      "text": "Dear, what did you eat, today?",
+      "createdAt": "2022-10-27T15:40:00.000Z"
+    }
+  },
+  {
+    "id": "9",
+    "user": {
+      "id": "u9",
+      "name": "Sister",
+      "image": "https://picsum.photos/200/300.jpg"
+    },
+    "lastMessage": {
+      "id": "m8",
+      "text": "What about our podcast?",
+      "createdAt": "2022-10-27T15:40:00.000Z"
+    }
+  },
+  {
+    "id": "10",
+    "user": {
+      "id": "u9",
+      "name": "Mishita",
+      "image": "https://picsum.photos/200/400"
+    },
+    "lastMessage": {
+      "id": "m8",
+      "text": "Do I have to send you any more details?",
+      "createdAt": "2021-01-27T15:40:00.000Z"
+    }
+  },
+  {
+    "id": "11",
+    "user": {
+      "id": "u9",
+      "name": "Shyam",
+      "image": "https://picsum.photos/200/300"
+    },
+    "lastMessage": {
+      "id": "m8",
+      "text": "Here is a picture of Mark.",
+      "createdAt": "2020-10-27T15:40:00.000Z"
+    }
+  }
+]
